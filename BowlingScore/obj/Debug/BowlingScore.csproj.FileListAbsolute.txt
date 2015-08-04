@@ -1,0 +1,9 @@
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\bin\Debug\BowlingScore.exe.config
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\obj\Debug\BowlingScore.csprojResolveAssemblyReference.cache
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\obj\Debug\BowlingScore.BowlingForm.resources
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\obj\Debug\BowlingScore.Properties.Resources.resources
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\obj\Debug\BowlingScore.csproj.GenerateResource.Cache
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\bin\Debug\BowlingScore.exe
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\bin\Debug\BowlingScore.pdb
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\obj\Debug\BowlingScore.exe
+C:\Users\HANS9922\Documents\Visual Studio 2013\Projects\BowlingScore\BowlingScore\obj\Debug\BowlingScore.pdb
